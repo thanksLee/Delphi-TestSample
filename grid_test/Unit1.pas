@@ -113,14 +113,12 @@ begin
          Connected := False;
          LoginPrompt := False;
 
-         ProviderName := 'MySQL';  // MySQL
-         Username     := 'devnewhtl';  //'insta';
-         Password     := 'devnewhtl0!';  //'djqandyd';
-         Server       := '192.168.1.61';  //'robot2.monis.co.kr';
+         ProviderName := 'MySQL';
+         Username     := 'devnewhtl';
+         Password     := 'devnewhtl0!';
+         Server       := '192.168.1.61';
          Port         := 3306;
-         Database     := 'dev_newbrandhtl_db';  //'gateway';
-
-         //ConnectString := 'Provider Name=MySQL;User ID=devmrserise;Password=mrserise0!;Data Source=125.177.188.44;Database=dev_db_mrseries;Port=4000';
+         Database     := 'dev_newbrandhtl_db';
 
          SpecificOptions.Values['Charset'] := 'utf8';
          SpecificOptions.Values['UseUnicode'] := 'True';
