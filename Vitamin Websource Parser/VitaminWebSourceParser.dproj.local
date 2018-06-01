@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.009,=C:\Users\vbhlee\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.391,C:\Users\vbhlee\Documents\Embarcadero\Studio\Projects\Unit1.pas=\\Vboxsvr\h_drive\bhlee_dropbox\Dropbox\MyProject\VitaminProject\Vitamin Websource Parser\uMain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.265,H:\bhlee_dropbox\Dropbox\MyProject\VitaminProject\Vitamin Websource Parser\uDataParse.pas=H:\bhlee_dropbox\Dropbox\MyProject\VitaminProject\Vitamin Websource Parser\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.265,H:\bhlee_dropbox\Dropbox\MyProject\VitaminProject\Vitamin Websource Parser\uDataParse.dfm=H:\bhlee_dropbox\Dropbox\MyProject\VitaminProject\Vitamin Websource Parser\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.844,C:\Users\vbhlee\Documents\Embarcadero\Studio\Projects\Project1.dproj=\\VBOXSVR\h_drive\bhlee_dropbox\Dropbox\MyProject\VitaminProject\Vitamin Websource Parser\VitaminWebSourceParser.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.391,C:\Users\vbhlee\Documents\Embarcadero\Studio\Projects\Unit1.dfm=\\Vboxsvr\h_drive\bhlee_dropbox\Dropbox\MyProject\VitaminProject\Vitamin Websource Parser\uMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.198,=H:\bhlee_dropbox\Dropbox\MyProject\VitaminProject\Vitamin Websource Parser\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.223,=H:\bhlee_dropbox\Dropbox\MyProject\VitaminProject\Vitamin Websource Parser\uProgress.pas</Transaction>
+  </Transactions>
+</BorlandProject>
